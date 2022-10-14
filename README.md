@@ -42,7 +42,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - how to make a Responsive Web Design .
+- how to make a Responsive Web Design :(https://www.w3schools.com/css/css_rwd_mediaqueries.asp) .
 
 ## Author
 
