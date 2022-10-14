@@ -16,11 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
  
- -Mobile version-
 [Mobile version](.design/mobile-design.jpg)
-
- -Desktop version-
-
 [Desktop version](.design/desktop-design.jpg)
 
 
