@@ -11,19 +11,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
  This is my first project with HTML and CSS.
 
 ### Screenshot
  
- -Mobile version
-
+ -Mobile version:
 [](.design/mobile-design.jpg)
 
- -Desktop version
+ -Desktop version:
+
 [](.design/desktop-design.jpg)
 
 
