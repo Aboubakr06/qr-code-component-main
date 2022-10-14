@@ -34,8 +34,8 @@ p{
     color: hsl(228, 45%, 44%);
 }
 
-@media only screen and (max-width: 400px) {
-  /* For mobile phones: */
-  [class*=".qr-box"] {
+@media only screen and (max-width: 200px) {
+  
+  .qr-box{
     width: 100%;
   }
